@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanuv Nair
 ==================================================================================================================================
 
-Student in S.K. Somaiya, Vidyavihar
------------------------------------
+Student studying BCA in S.K. Somaiya College, Vidyavihar
+--------------------------------------------------------
 
 *   🌍  I'm based in Mumbai
 *   🖥️  See my portfolio at [tanuvnair.com](http://tanuvnair.com)
