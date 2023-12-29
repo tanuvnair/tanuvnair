@@ -4,12 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student studying BCA in S.K. Somaiya College, Vidyavihar
 --------------------------------------------------------
 
-N/A
-
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [tanuvnair.com](http://tanuvnair.com)
 * ✉️  You can contact me at [tanuvnair@gmail.com](mailto:tanuvnair@gmail.com)
-* 🚀  I'm currently working on [N/A](http://tanuvnair.com)
 * 🧠  I'm learning C#, Dart and Flutter
 
 <a href="https://www.github.com/tanuvnair" target="_blank" rel="noreferrer"><img
