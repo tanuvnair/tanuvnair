@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student studying BCA in S.K. Somaiya College, Vidyavihar
 --------------------------------------------------------
 
-* 🌍  I'm based in Mumbai
+* 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [tanuvnair.com](http://tanuvnair.com)
 * ✉️  You can contact me at [tanuvnair@gmail.com](mailto:tanuvnair@gmail.com)
-* 🧠  I'm learning C#, Dart and Flutter
+* 🧠  I'm currently learning C#, ASP.NET, Dart and Flutter
