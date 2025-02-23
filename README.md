@@ -5,6 +5,6 @@ Student studying BCA in S.K. Somaiya College, Vidyavihar
 --------------------------------------------------------
 
 * 🌍  I'm based in Mumbai, India
-* 🖥️  See my portfolio at [tanuvnair.com](http://tanuvnair.com)
+* 🖥️  See my portfolio at [tanuvnair.com](http://tanuv.info)
 * ✉️  You can contact me at [tanuvnair@gmail.com](mailto:tanuvnair@gmail.com)
 * 🧠  I'm currently learning C, JavaScript and React
