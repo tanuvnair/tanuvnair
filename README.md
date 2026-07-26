@@ -97,7 +97,7 @@ Full-stack app (SolidStart + Go REST API) that ingests multi-source data from th
 
 ## Background
 
-B.C.A., Somaiya Vidyavihar University (2022–2025) — OOP, Database Management Systems, Computer Networks, Software Engineering, Cloud Computing, AI
+B.C.A., Somaiya Vidyavihar University (2022–2025): OOP, Database Management Systems, Computer Networks, Software Engineering, Cloud Computing, AI
 
 <br/>
 
